@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #0076C0;
+  --color-accent: #154BB7;
+  --color-gray: #353535;
+  --color-dark-blue: #000C42;
+  --color-light-blue: #006EFF;
+  --color-light-gray: #f5f7fa;
+  --color-medium-gray: #b6b6b6;
+}
+
+body {
+  font-family: "NeueMontreal", Arial, sans-serif;
+}
